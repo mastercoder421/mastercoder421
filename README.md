@@ -33,7 +33,8 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mastercoder421&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mastercoder421&theme=tokyonight" alt="streak" height="165"/>
+<img src="https://streak-stats.demolab.com?user=mastercoder421&theme=tokyonight" alt="streak" height="165"/>
+
 </p>
 
 ---
