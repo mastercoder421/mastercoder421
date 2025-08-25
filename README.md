@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech 2nd Year (ECE) @ IIITDM Jabalpur  
 - 📱 Passionate about building **Android apps with Kotlin & Jetpack Compose**  
-- 🏆 Solving **Data Structures & Algorithms** problems to sharpen problem-solving skills  
+- 🏆 Solving **Data Structures & Algorithms** problems to sharpen problem-solving skills 
 - 🚀 Open to collaborating on **Android Development & Open-Source Projects**  
 - 📚 Always learning, growing, and striving to build impactful tech solutions  
 - 📫 How to reach me: [LinkedIn Profile](http://www.linkedin.com/in/vijay-maheshwari-136a7b2aa)  
@@ -43,8 +43,14 @@
 ### 🌍 Connect with Me
 
 <p align="left">
-<a href="http://www.linkedin.com/in/vijay-maheshwari-136a7b2aa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="http://www.linkedin.com/in/vijay-maheshwari-136a7b2aa" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/__Vijay_maheshwari" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
+
 
 ---
 
